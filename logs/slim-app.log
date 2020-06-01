@@ -483,3 +483,4 @@
 [2020-05-31 23:53:36] slim-app.INFO: Route: {GET} /materia/datatable | Description: List All Datatable [] {"uid":"f21bd5e"}
 [2020-05-31 23:53:38] slim-app.INFO: Route: {DELETE} /materia | Description: Delete [] {"uid":"7328d25"}
 [2020-05-31 23:53:39] slim-app.INFO: Route: {GET} /materia/datatable | Description: List All Datatable [] {"uid":"02cb3ad"}
+[2020-06-01 01:05:12] slim-app.INFO: Route: {GET} /ajuda | Description: List All [] {"uid":"1633c5c"}
