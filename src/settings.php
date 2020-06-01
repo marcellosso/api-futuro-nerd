@@ -29,8 +29,8 @@ return [
         'db' => [
             'host'     => 'ffn96u87j5ogvehy.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
             'user'     => 'uvmrvwcmw19kt2su',
-            'password' => 'zawuvgqtjcs5t9ff', 
-            'dbname'   => 'p040hst38t6dnx4w	'
+            'password' => 'zawuvgqtjcs5t9ff',
+            'dbname'   => 'p040hst38t6dnx4w'
         ],
 
         // Monolog settings
