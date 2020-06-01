@@ -1,0 +1,58 @@
+<table style="width:600px; margin:0px; padding:0px; border:none; border-spacing:0px;" cellpadding="0" cellspacing="0">
+    <tr>
+        <td style="background-color:#ffffff; text-align:center;"><img src="{{ URL_ADMIN_FUTURONERD }}/images/email/logo.jpg" style="display:inline-block;" alt="Futuro Nerd" /></td>
+    </tr>
+    <tr>
+        <td style="background-color:#80e0ff; height:3px;"></td>
+    </tr>
+    <tr>
+        <td style="background-color:#00aae2; color:#ffffff; text-align:center; font-family:'calibri'; font-size:18px; font-weight:bold; letter-spacing:1px; padding:3px 0px;"><strong>Relatório - Estatísticas</strong></td>
+    </tr>
+    <tr>
+        <td background="{{ URL_ADMIN_FUTURONERD }}/images/email/bg.jpg" style="background-image:url('{{ URL_ADMIN_FUTURONERD }}/images/email/bg.jpg');">
+            <br/>
+            <table width="100%" style="width:100%; margin:0px; padding:10px; border:none; border-spacing:10px;" cellpadding="0" cellspacing="10">
+                <tr>
+                    <td style="font-family:'calibri'; font-size:18px; font-weight:bold; text-align:center;">Dia: <span style="font-family:'calibri'; font-size:18px; font-weight:normal; text-align:left;">{{ dados.data_atual }}</span></td>
+                </tr>
+            </table>
+            {% for f in dados.filhos %}
+                <table width="100%" style="width:100%; margin:0px; padding:10px; border:none; border-spacing:10px;" cellpadding="0" cellspacing="10">
+                    <tr>
+                        <td colspan="2" style="font-family:'calibri'; font-size:18px; font-weight:normal; text-align:left;"><strong>Filho:</strong> {{ f.filho_nome }}</td>
+                        <td colspan="2" style="font-family:'calibri'; font-size:18px; font-weight:normal; text-align:left;"><strong>Tempo de Uso:</strong> {{ f.tempo_minutos }} Minutos</td>
+                    </tr>
+                    <tr>
+                        <td colspan="4">
+                            <table width="100%" style="width:100%; margin:0px; padding:0px; border:none; border-spacing:0px;" cellpadding="3" cellspacing="0">
+                                <tr>
+                                    <td style="background-color:#00aae2; color:#fff; font-family:'calibri'; font-size:15px; font-weight:bold; text-align:center;">Matéria</td>
+                                    <td style="background-color:#bcff9e; color:#45af15; font-family:'calibri'; font-size:15px; font-weight:bold; text-align:center;">Acertos</td>
+                                    <td style="background-color:#ff9e9e; color:#af1515; font-family:'calibri'; font-size:15px; font-weight:bold; text-align:center;">Erros</td>
+                                </tr>
+                                {% if f.materias is not empty %}
+                                    {% for m in f.materias %}
+                                        <tr>
+                                            <td style="font-family:'calibri'; font-size:15px; font-weight:normal; text-align:center;"><strong>{{ m.titulo }}</strong></td>
+                                            <td style="font-family:'calibri'; font-size:15px; font-weight:normal; text-align:center;">{{ m.acertos }}</td>
+                                            <td style="font-family:'calibri'; font-size:15px; font-weight:normal; text-align:center;">{{ m.erros }}</td>
+                                        </tr>
+                                    {% endfor %}
+                                {% else %}
+                                    <tr>
+                                        <td colspan="3" style="text-align: center;">Não existem matérias respondidas!</td>
+                                    </tr>
+                                {% endif %}
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            {% endfor %}
+            <br/><br/><br/>
+            <br/><br/><br/>
+        </td>
+    </tr>
+    <tr>
+        <td style="background-color:#80e0ff; height:3px;"></td>
+    </tr>
+</table>

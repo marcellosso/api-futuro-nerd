@@ -1,0 +1,27 @@
+{
+	"authors": [
+        {
+            "name": "Ricardo Mangabeira",
+            "email": "rasmangabeira@gmail.com",
+            "homepage": "http://jamit.digital/"
+        }
+    ],
+	"require": {
+		"slim/slim": "^3.1",
+        "slim/php-view": "^2.0",
+        "monolog/monolog": "^1.17",
+        "pagseguro/php": "2.7.1",
+        "vlucas/phpdotenv": "^2.3",
+        "tuupola/cors-middleware": "^0.5.1",
+		"andrewdyer/slim3-mailer": "^1.1",
+		"flyingluscas/correios-php": "^2.3"
+	},
+	"autoload": {
+		"psr-4": {
+			"Controllers\\": "src/Controllers/"
+		}
+	},
+    "scripts": {
+      "serve": "php -S 0.0.0.0:8080 -t public/ public/index.php"
+    }
+}

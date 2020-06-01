@@ -1,0 +1,485 @@
+[2020-02-18 12:11:45] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"6a57245"}
+[2020-02-18 12:11:50] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"b8a1ff2"}
+[2020-02-18 12:11:50] slim-app.INFO: Route: {GET} /materia_by_serie | Description: List listBySerieId [] {"uid":"50a5130"}
+[2020-02-18 12:11:55] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"8216c2d"}
+[2020-02-18 12:12:00] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"580caf7"}
+[2020-02-18 12:12:05] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"5171f36"}
+[2020-02-18 12:12:10] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"2f25f97"}
+[2020-02-18 12:12:15] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"f55a041"}
+[2020-02-18 12:12:20] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"2914b9f"}
+[2020-02-18 12:12:25] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"a661b11"}
+[2020-02-18 12:12:30] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"272edfc"}
+[2020-02-18 12:12:32] slim-app.INFO: Route: {GET} /materia_by_serie undefined| Description: List listBySerieId [] {"uid":"adbd886"}
+[2020-02-18 12:12:35] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"a3ae3a7"}
+[2020-02-18 12:12:40] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"97a28c2"}
+[2020-02-18 12:12:45] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"24b0a84"}
+[2020-02-18 12:12:50] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"6e0bd13"}
+[2020-02-18 12:12:55] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"298f0e9"}
+[2020-02-18 12:13:00] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"ee1425c"}
+[2020-02-18 12:13:05] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"e268085"}
+[2020-02-18 12:13:10] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"804be82"}
+[2020-02-18 12:13:15] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"05263b3"}
+[2020-02-18 12:13:20] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"6570847"}
+[2020-02-18 12:13:25] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"2829fc4"}
+[2020-02-18 12:13:30] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"8d1a4c0"}
+[2020-02-18 12:13:36] slim-app.INFO: Route: {POST} /filho/login | Description: Login Filho [] {"uid":"a5b5628"}
+[2020-02-18 12:13:37] slim-app.INFO: Route: {GET} /materia_by_serie 29| Description: List listBySerieId [] {"uid":"2b03ec2"}
+[2020-02-18 12:13:41] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"31c7139"}
+[2020-02-18 12:13:46] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"02c54f3"}
+[2020-02-18 12:13:51] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"c94780e"}
+[2020-02-18 12:13:56] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"e80778d"}
+[2020-02-18 12:14:01] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"0024780"}
+[2020-02-18 12:14:06] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"04c7fff"}
+[2020-02-18 12:14:11] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"3ab52e5"}
+[2020-02-18 12:14:16] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"249c592"}
+[2020-02-18 12:14:21] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"3a1611e"}
+[2020-02-18 12:14:26] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"98a0d27"}
+[2020-02-18 12:14:31] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"c138a5b"}
+[2020-02-18 12:14:36] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"fac3676"}
+[2020-02-18 12:14:41] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"a5d13da"}
+[2020-02-18 12:14:46] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"a4cfa98"}
+[2020-02-18 12:14:53] slim-app.INFO: Route: {POST} /filho/login | Description: Login Filho [] {"uid":"02f40d3"}
+[2020-02-18 12:14:58] slim-app.INFO: Route: {GET} /materia_by_serie 29| Description: List listBySerieId [] {"uid":"feca7ac"}
+[2020-02-18 12:15:00] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"4512ad0"}
+[2020-02-18 12:15:04] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"053fc17"}
+[2020-02-18 12:15:09] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"37e4ee5"}
+[2020-02-18 12:15:14] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"858996b"}
+[2020-02-18 12:15:19] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"cd00309"}
+[2020-02-18 12:15:24] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"50d89d8"}
+[2020-02-18 12:15:29] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"94ed7d6"}
+[2020-02-18 12:15:34] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"6bea32e"}
+[2020-02-18 12:15:39] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"97c110c"}
+[2020-02-18 12:15:44] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"72ac557"}
+[2020-02-18 12:15:49] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"7697030"}
+[2020-02-18 12:15:54] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"55e3de9"}
+[2020-02-18 12:15:59] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"5017879"}
+[2020-02-18 12:16:04] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"ea07ad0"}
+[2020-02-18 12:16:07] slim-app.INFO: Route: {GET} /materia_by_serie 29| Description: List listBySerieId [] {"uid":"e2bb551"}
+[2020-02-18 12:16:09] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"76f3d01"}
+[2020-02-18 12:16:14] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"675cbb0"}
+[2020-02-18 12:16:19] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"92474b7"}
+[2020-02-18 12:16:24] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"89e3599"}
+[2020-02-18 12:16:29] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"b649802"}
+[2020-02-18 12:16:34] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"29a23cb"}
+[2020-02-18 12:16:39] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"2e98cc4"}
+[2020-02-18 12:16:44] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"1947b9c"}
+[2020-02-18 12:16:49] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"d034725"}
+[2020-02-18 12:16:54] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"748c8c6"}
+[2020-02-18 12:16:59] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"6920383"}
+[2020-02-18 12:17:04] slim-app.INFO: Route: {GET} /materia_by_serie 27| Description: List listBySerieId [] {"uid":"0c3aa01"}
+[2020-02-18 12:17:04] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"63a3ddf"}
+[2020-02-18 12:17:08] slim-app.INFO: Route: {GET} /materia_by_serie 28| Description: List listBySerieId [] {"uid":"66bc8e0"}
+[2020-02-18 12:17:09] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"fc72f75"}
+[2020-02-18 12:17:12] slim-app.INFO: Route: {GET} /materia_by_serie 29| Description: List listBySerieId [] {"uid":"5d53f2f"}
+[2020-02-18 12:17:14] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"189ad70"}
+[2020-02-18 12:17:15] slim-app.INFO: Route: {GET} /materia_by_serie 30| Description: List listBySerieId [] {"uid":"f023079"}
+[2020-02-18 12:17:18] slim-app.INFO: Route: {GET} /materia_by_serie 31| Description: List listBySerieId [] {"uid":"a86e013"}
+[2020-02-18 12:17:19] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"3d9f78c"}
+[2020-02-18 12:17:20] slim-app.INFO: Route: {GET} /materia_by_serie 32| Description: List listBySerieId [] {"uid":"ac4b5df"}
+[2020-02-18 12:17:24] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"6fe98c4"}
+[2020-02-18 12:17:29] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"a9701da"}
+[2020-02-18 12:17:34] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"d5ee025"}
+[2020-02-18 12:17:39] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"549969a"}
+[2020-02-18 12:17:44] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"f125390"}
+[2020-02-18 12:17:49] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"c7dbad8"}
+[2020-02-18 12:17:54] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"959b753"}
+[2020-02-18 12:17:59] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"353dd49"}
+[2020-02-18 12:18:04] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"8dce7c1"}
+[2020-02-18 12:18:09] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"bf15e0c"}
+[2020-02-18 12:18:14] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"40a4f52"}
+[2020-02-18 12:18:19] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"369aa59"}
+[2020-02-18 12:18:24] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"fc39e8d"}
+[2020-02-18 12:18:29] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"715a88e"}
+[2020-02-18 12:18:34] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"f72d34f"}
+[2020-02-18 12:18:39] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"63977fe"}
+[2020-02-18 12:18:44] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"a84d4f1"}
+[2020-02-18 12:18:49] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"dd6f19f"}
+[2020-02-18 12:18:54] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"248221a"}
+[2020-02-18 12:18:59] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"1476888"}
+[2020-02-18 12:19:04] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"2ce455e"}
+[2020-02-18 12:19:09] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"0deca57"}
+[2020-02-18 12:19:14] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"81fca37"}
+[2020-02-18 12:19:19] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"a101798"}
+[2020-02-18 12:19:24] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"fef8429"}
+[2020-02-18 12:19:29] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"c937130"}
+[2020-02-18 12:19:34] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"32045ca"}
+[2020-02-18 12:19:39] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"5e2f2dc"}
+[2020-02-18 12:19:44] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"c965940"}
+[2020-02-18 12:19:49] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"d318c8a"}
+[2020-02-18 12:19:54] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"90cc28d"}
+[2020-02-18 12:19:59] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"a21b422"}
+[2020-02-18 12:20:04] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"a869169"}
+[2020-02-18 12:20:09] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"506ac27"}
+[2020-02-18 12:20:14] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"ddce799"}
+[2020-02-18 12:20:19] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"69778cd"}
+[2020-02-18 12:20:24] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"a5c3eba"}
+[2020-02-18 12:20:29] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"9278088"}
+[2020-02-18 12:20:34] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"87dfc25"}
+[2020-02-18 12:20:39] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"4a57475"}
+[2020-02-18 12:20:44] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"623a40e"}
+[2020-02-18 12:20:49] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"bb61aa0"}
+[2020-02-18 12:20:54] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"1f7a8c1"}
+[2020-02-18 12:20:59] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"5b8a602"}
+[2020-02-18 12:21:04] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"255346f"}
+[2020-02-18 12:21:09] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"5af6a3e"}
+[2020-02-18 12:21:14] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"18d9e34"}
+[2020-02-18 12:21:19] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"274e96b"}
+[2020-02-18 12:21:24] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"9999ddc"}
+[2020-02-18 12:21:29] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"156e0c5"}
+[2020-02-18 12:21:34] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"d0ca25f"}
+[2020-02-18 12:21:39] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"86f5862"}
+[2020-02-18 12:21:44] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"8e7bb60"}
+[2020-02-18 12:21:49] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"587a57d"}
+[2020-02-18 12:21:54] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"580a93e"}
+[2020-02-18 12:21:59] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"96446b8"}
+[2020-02-18 12:22:04] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"75ea046"}
+[2020-02-18 12:22:09] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"9e78a19"}
+[2020-02-18 12:22:14] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"ff44274"}
+[2020-02-18 12:22:19] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"85f222d"}
+[2020-02-18 12:22:24] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"b5e7129"}
+[2020-02-18 12:22:29] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"626a87a"}
+[2020-02-18 12:22:34] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"3f32f85"}
+[2020-02-18 12:22:39] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"f8696df"}
+[2020-02-18 12:22:44] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"dff207f"}
+[2020-02-18 12:22:49] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"4809954"}
+[2020-02-18 12:22:54] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"316df6d"}
+[2020-02-18 12:22:59] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"a019188"}
+[2020-02-18 12:23:04] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"f40f416"}
+[2020-02-18 12:23:09] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"b88106b"}
+[2020-02-18 12:23:14] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"b94c0a9"}
+[2020-02-18 12:23:19] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"e3dac66"}
+[2020-02-18 12:23:24] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"09f9d07"}
+[2020-02-18 12:23:29] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"8547dc6"}
+[2020-02-18 12:23:34] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"6be3a4b"}
+[2020-02-18 12:23:39] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"08cc7c1"}
+[2020-02-18 12:23:44] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"72af58c"}
+[2020-02-18 12:23:49] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"589776e"}
+[2020-02-18 12:23:54] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"4d0ff49"}
+[2020-02-18 12:23:59] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"639ef42"}
+[2020-02-18 12:24:04] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"62a95e9"}
+[2020-02-18 12:24:09] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"0d76090"}
+[2020-02-18 12:24:14] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"622a2a3"}
+[2020-02-18 12:24:19] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"f48955b"}
+[2020-02-18 12:24:24] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"4a1cd04"}
+[2020-02-18 12:24:29] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"f7f0627"}
+[2020-02-18 12:24:34] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"7540dbd"}
+[2020-02-18 12:24:40] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"13b24c9"}
+[2020-02-18 12:24:45] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"85b1309"}
+[2020-02-18 12:24:50] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"dd253b5"}
+[2020-02-18 12:24:55] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"d6e4113"}
+[2020-02-18 12:25:00] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"da4db3e"}
+[2020-02-18 12:25:05] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"25a8cf4"}
+[2020-02-18 12:25:10] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"95996ee"}
+[2020-02-18 12:25:15] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"6c15508"}
+[2020-02-18 12:25:20] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"4adb1dd"}
+[2020-02-18 12:25:25] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"c26d120"}
+[2020-02-18 12:25:30] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"25a35f4"}
+[2020-02-18 12:25:35] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"92c3b08"}
+[2020-02-18 12:25:40] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"dc0e398"}
+[2020-02-18 12:25:45] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"81a9367"}
+[2020-02-18 12:25:50] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"1067ec6"}
+[2020-02-18 12:25:55] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"6470a55"}
+[2020-02-18 12:26:00] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"13a1c37"}
+[2020-02-18 12:26:05] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"eee50b5"}
+[2020-02-18 12:26:10] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"ff44058"}
+[2020-02-18 12:26:15] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"c570af2"}
+[2020-02-18 12:26:20] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"848bc44"}
+[2020-02-18 12:26:25] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"b93b21c"}
+[2020-02-18 12:26:30] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"b28b265"}
+[2020-02-18 12:26:35] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"c277c64"}
+[2020-02-18 12:26:40] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"ceeb728"}
+[2020-02-18 12:26:45] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"27c1d21"}
+[2020-02-18 12:26:50] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"7a369a8"}
+[2020-02-18 12:26:55] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"09c6ad1"}
+[2020-02-18 12:27:00] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"98999d8"}
+[2020-02-18 12:27:05] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"94140e2"}
+[2020-02-18 12:27:10] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"8087439"}
+[2020-02-18 12:27:15] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"fa0aa2c"}
+[2020-02-18 12:27:20] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"54255d4"}
+[2020-02-18 12:27:25] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"5b403e2"}
+[2020-02-18 12:27:30] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"2dd874b"}
+[2020-02-18 12:27:35] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"8af17bc"}
+[2020-02-18 12:27:40] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"43a5db0"}
+[2020-02-18 12:27:45] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"d3e08b3"}
+[2020-02-18 12:27:50] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"514b554"}
+[2020-02-18 12:27:55] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"cbd5a6d"}
+[2020-02-18 12:28:00] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"dcb4776"}
+[2020-02-18 12:28:05] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"2b1e639"}
+[2020-02-18 12:28:10] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"50c176f"}
+[2020-02-18 12:28:15] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"f6f31b3"}
+[2020-02-18 12:28:20] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"6a095a6"}
+[2020-02-18 12:28:25] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"d9f2ba8"}
+[2020-02-18 12:28:30] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"da6c0c4"}
+[2020-02-18 12:28:35] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"f8426f0"}
+[2020-02-18 12:28:40] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"7666bdf"}
+[2020-02-18 12:28:45] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"2d9d989"}
+[2020-02-18 12:28:50] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"b22a6e2"}
+[2020-02-18 12:28:55] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"54bdf9f"}
+[2020-02-18 12:29:00] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"deb56c1"}
+[2020-02-18 12:29:05] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"7921a48"}
+[2020-02-18 12:29:10] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"6d02df9"}
+[2020-02-18 12:29:15] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"d2b6b19"}
+[2020-02-18 12:29:20] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"5aa0645"}
+[2020-02-18 12:29:25] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"92fdd98"}
+[2020-02-18 12:29:30] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"c4d841a"}
+[2020-02-18 12:29:35] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"c179b4b"}
+[2020-02-18 12:29:40] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"dc434f5"}
+[2020-02-18 12:29:45] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"264732e"}
+[2020-02-18 12:29:50] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"d7012e3"}
+[2020-02-18 12:29:55] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"510a9e8"}
+[2020-02-18 12:30:00] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"283de0b"}
+[2020-02-18 12:30:05] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"13f68da"}
+[2020-02-18 12:30:10] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"fa14846"}
+[2020-02-18 12:30:15] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"b0b62e7"}
+[2020-02-18 12:30:20] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"e07f367"}
+[2020-02-18 12:30:25] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"1708f2d"}
+[2020-02-18 12:30:30] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"0680d1e"}
+[2020-02-18 12:30:35] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"251b557"}
+[2020-02-18 12:30:40] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"74255dd"}
+[2020-02-18 12:30:45] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"575f368"}
+[2020-02-18 12:30:50] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"943fa49"}
+[2020-02-18 12:30:55] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"e2fbc42"}
+[2020-02-18 12:31:00] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"6238b25"}
+[2020-02-18 12:31:05] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"20b0ce6"}
+[2020-02-18 12:31:10] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"200ec82"}
+[2020-02-18 12:31:15] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"fae6e54"}
+[2020-02-18 12:31:20] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"a7fed1a"}
+[2020-02-18 12:31:25] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"9a1b9e2"}
+[2020-02-18 12:31:30] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"206cd1e"}
+[2020-02-18 12:31:35] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"a3d4c49"}
+[2020-02-18 12:31:40] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"a829d24"}
+[2020-02-18 12:31:45] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"e9fa64e"}
+[2020-02-18 12:31:50] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"d0d6d7e"}
+[2020-02-18 12:31:55] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"b84ecc0"}
+[2020-02-18 12:32:00] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"064d76f"}
+[2020-02-18 12:32:05] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"f0fdebd"}
+[2020-02-18 12:32:10] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"ae2fe84"}
+[2020-02-18 12:32:15] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"88fda88"}
+[2020-02-18 12:32:20] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"25d8317"}
+[2020-02-18 12:32:25] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"00f0efa"}
+[2020-02-18 12:32:30] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"ed69954"}
+[2020-02-18 12:32:36] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"43d1666"}
+[2020-02-18 12:32:40] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"87e779a"}
+[2020-02-18 12:32:46] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"b24255d"}
+[2020-02-18 12:32:50] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"becd57c"}
+[2020-02-18 12:32:55] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"fd1c0d4"}
+[2020-02-18 12:33:00] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"2566996"}
+[2020-02-18 12:33:05] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"179aea7"}
+[2020-02-18 12:33:10] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"10a71dc"}
+[2020-02-18 12:33:12] slim-app.INFO: Route: {GET} /materia_by_serie 32| Description: List listBySerieId [] {"uid":"c9203f1"}
+[2020-02-18 12:33:15] slim-app.INFO: Route: {GET} /materia_by_serie 27| Description: List listBySerieId [] {"uid":"5df9b1e"}
+[2020-02-18 12:33:15] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"ece1d31"}
+[2020-02-18 12:33:20] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"4728db2"}
+[2020-02-18 12:33:23] slim-app.INFO: Route: {GET} /materia_by_serie 27| Description: List listBySerieId [] {"uid":"84cd0c2"}
+[2020-02-18 12:33:25] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"c246cd9"}
+[2020-02-18 12:33:31] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"f1237b7"}
+[2020-02-18 12:33:36] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"9717f62"}
+[2020-02-18 12:33:38] slim-app.INFO: Route: {GET} /materia_by_serie 28| Description: List listBySerieId [] {"uid":"34adc20"}
+[2020-02-18 12:33:41] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"7cc7a74"}
+[2020-02-18 12:33:42] slim-app.INFO: Route: {GET} /materia_by_serie 29| Description: List listBySerieId [] {"uid":"cd173d8"}
+[2020-02-18 12:33:46] slim-app.INFO: Route: {GET} /materia_by_serie 30| Description: List listBySerieId [] {"uid":"5e3c015"}
+[2020-02-18 12:33:46] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"d185c37"}
+[2020-02-18 12:33:51] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"8aca390"}
+[2020-02-18 12:33:56] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"582e2fa"}
+[2020-02-18 12:34:01] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"6f292e4"}
+[2020-02-18 12:34:06] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"dd6cec7"}
+[2020-02-18 12:34:11] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"57be57b"}
+[2020-02-18 12:34:16] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"3944225"}
+[2020-02-18 12:34:21] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"5c9b4db"}
+[2020-02-18 12:34:26] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"87041cc"}
+[2020-02-18 12:34:31] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"897bb86"}
+[2020-02-18 12:34:36] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"ec7591e"}
+[2020-02-18 12:34:41] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"bbcebd0"}
+[2020-02-18 12:34:46] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"181b269"}
+[2020-02-18 12:34:51] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"be68659"}
+[2020-02-18 12:34:56] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"4027a41"}
+[2020-02-18 12:35:01] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"178971f"}
+[2020-02-18 12:35:06] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"174a24b"}
+[2020-02-18 12:35:11] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"0ee8368"}
+[2020-02-18 12:35:16] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"0dcc364"}
+[2020-02-18 12:35:21] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"4e0e67d"}
+[2020-02-18 12:35:26] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"1cac8f4"}
+[2020-02-18 12:35:31] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"6611891"}
+[2020-02-18 12:35:36] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"44487e4"}
+[2020-02-18 12:35:41] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"ef825b9"}
+[2020-02-18 12:35:46] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"76ed77d"}
+[2020-02-18 12:35:51] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"d4cb31f"}
+[2020-02-18 12:35:56] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"32c208e"}
+[2020-02-18 12:36:01] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"92509e4"}
+[2020-02-18 12:36:06] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"6ad2ef1"}
+[2020-02-18 12:36:11] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"c681fdb"}
+[2020-02-18 12:36:14] slim-app.INFO: Route: {GET} /materia_by_serie 30| Description: List listBySerieId [] {"uid":"59ac5bd"}
+[2020-02-18 12:36:16] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"aba8c0a"}
+[2020-02-18 12:36:21] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"50347bb"}
+[2020-02-18 12:36:26] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"abb3a51"}
+[2020-02-18 12:36:31] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"06227a3"}
+[2020-02-18 12:36:36] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"8e248a8"}
+[2020-02-18 12:36:41] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"2e1435c"}
+[2020-02-18 12:36:46] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"c1e456d"}
+[2020-02-18 12:36:51] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"7081a34"}
+[2020-02-18 12:36:56] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"ec5d6c0"}
+[2020-02-18 12:37:01] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"8310b1a"}
+[2020-02-18 12:37:06] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"01e821a"}
+[2020-02-18 12:37:11] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"b7be7ed"}
+[2020-02-18 12:37:16] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"4d3161e"}
+[2020-02-18 12:37:21] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"a36ea34"}
+[2020-02-18 12:37:26] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"cd59a1f"}
+[2020-02-18 12:37:31] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"43a696b"}
+[2020-02-18 12:37:36] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"590098f"}
+[2020-02-18 12:37:41] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"1f5981b"}
+[2020-02-18 12:37:46] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"d782ed7"}
+[2020-02-18 12:37:51] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"ff51408"}
+[2020-02-18 12:37:56] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"7ad29c1"}
+[2020-02-18 12:38:01] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"05a654d"}
+[2020-02-18 12:38:06] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"bd36bd0"}
+[2020-02-18 12:38:11] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"8f90c3a"}
+[2020-02-18 12:38:16] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"ce1df75"}
+[2020-02-18 12:38:21] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"113a76e"}
+[2020-02-18 12:38:26] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"377af8d"}
+[2020-02-18 12:38:31] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"f5d3dc0"}
+[2020-02-18 12:38:36] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"b49f7f3"}
+[2020-02-18 12:38:41] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"8cbe6f2"}
+[2020-02-18 12:38:46] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"94c2451"}
+[2020-02-18 12:38:51] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"d7b72ba"}
+[2020-02-18 12:38:56] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"5fc166c"}
+[2020-02-18 12:39:01] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"b892be5"}
+[2020-02-18 12:39:06] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"9e1bc9d"}
+[2020-02-18 12:39:11] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"a66804f"}
+[2020-02-18 12:39:16] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"5ad23ea"}
+[2020-02-18 12:39:21] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"d52982a"}
+[2020-02-18 12:39:26] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"ef39460"}
+[2020-02-18 12:39:31] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"6f6d102"}
+[2020-02-18 12:39:36] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"cf5438a"}
+[2020-02-18 12:39:41] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"b9fe298"}
+[2020-02-18 12:39:46] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"35d7972"}
+[2020-02-18 12:39:51] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"e555c7c"}
+[2020-02-18 12:39:56] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"ce21ad4"}
+[2020-02-18 12:40:01] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"07011dd"}
+[2020-02-18 12:40:06] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"db1cf58"}
+[2020-02-18 12:40:11] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"4258656"}
+[2020-02-18 12:40:16] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"cbfcf84"}
+[2020-02-18 12:40:21] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"728c903"}
+[2020-02-18 12:40:26] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"02bcee7"}
+[2020-02-18 12:40:31] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"fd3eb48"}
+[2020-02-18 12:40:36] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"eed2ade"}
+[2020-02-18 12:40:41] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"7125b7a"}
+[2020-02-18 12:40:46] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"5c89f48"}
+[2020-02-18 12:40:49] slim-app.INFO: Route: {GET} /materia_by_serie 30| Description: List listBySerieId [] {"uid":"439f3d3"}
+[2020-02-18 12:40:51] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"bca9ae6"}
+[2020-02-18 12:40:56] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"9f81e92"}
+[2020-02-18 12:41:01] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"5a9f847"}
+[2020-02-18 12:41:06] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"d902987"}
+[2020-02-18 12:41:11] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"71202e6"}
+[2020-02-18 12:41:16] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"40bfbab"}
+[2020-02-18 12:41:21] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"2d24416"}
+[2020-02-18 12:41:26] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"0d59462"}
+[2020-02-18 12:41:31] slim-app.INFO: Route: {GET} /materia_by_serie 30| Description: List listBySerieId [] {"uid":"1319fa5"}
+[2020-02-18 12:41:31] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"39b17b1"}
+[2020-02-18 12:41:32] slim-app.INFO: Route: {GET} /materia_by_serie 30| Description: List listBySerieId [] {"uid":"e0c5fc3"}
+[2020-02-18 12:41:36] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"63b0e95"}
+[2020-02-18 12:41:41] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"236c939"}
+[2020-02-18 12:41:46] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"5e04257"}
+[2020-02-18 12:41:51] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"7111489"}
+[2020-02-18 12:41:56] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"8d6c09e"}
+[2020-02-18 12:42:01] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"4ad6b7c"}
+[2020-02-18 12:42:05] slim-app.INFO: Route: {GET} /materia_by_serie 30| Description: List listBySerieId [] {"uid":"2e4cf74"}
+[2020-02-18 12:42:06] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"779f590"}
+[2020-02-18 12:42:11] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"eb41928"}
+[2020-02-18 12:42:16] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"90d6b9f"}
+[2020-02-18 12:42:21] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"055a22a"}
+[2020-02-18 12:42:27] slim-app.INFO: Route: {POST} /filho/login | Description: Login Filho [] {"uid":"e101266"}
+[2020-02-18 12:42:28] slim-app.INFO: Route: {GET} /materia_by_serie 29| Description: List listBySerieId [] {"uid":"faabff9"}
+[2020-02-18 12:42:32] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"388e6bd"}
+[2020-02-18 12:42:51] slim-app.INFO: Route: {POST} /filho/login | Description: Login Filho [] {"uid":"14c7f9f"}
+[2020-02-18 12:42:53] slim-app.INFO: Route: {GET} /materia_by_serie 27| Description: List listBySerieId [] {"uid":"e5eab38"}
+[2020-02-18 12:42:57] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"08597ee"}
+[2020-02-18 12:42:57] slim-app.INFO: Route: {GET} /questao/{filho}/{materia}/{serie} | Description: Return By ID [] {"uid":"4059c09"}
+[2020-02-18 12:42:57] slim-app.INFO: Route: {GET} /filho/questoes/{materia}/{serie} | Description: Return By ID [] {"uid":"c3d3d96"}
+[2020-02-18 12:42:57] slim-app.INFO: Route: {GET} /filho/questoes/respondidas/{filho}/{materia}/{serie} | Description: Return By ID [] {"uid":"8958f21"}
+[2020-02-18 12:43:02] slim-app.INFO: Route: {GET} /materia_by_serie 27| Description: List listBySerieId [] {"uid":"9d8f052"}
+[2020-02-18 12:43:02] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"ee0c7b1"}
+[2020-02-18 12:43:03] slim-app.INFO: Route: {GET} /filho/questoes/{materia}/{serie} | Description: Return By ID [] {"uid":"50d25b5"}
+[2020-02-18 12:43:03] slim-app.INFO: Route: {GET} /filho/questoes/respondidas/{filho}/{materia}/{serie} | Description: Return By ID [] {"uid":"9fecd49"}
+[2020-02-18 12:43:03] slim-app.INFO: Route: {GET} /questao/{filho}/{materia}/{serie} | Description: Return By ID [] {"uid":"ef97aef"}
+[2020-02-18 12:43:06] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"e992e9c"}
+[2020-02-18 12:43:07] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"e7b593c"}
+[2020-02-18 12:43:09] slim-app.INFO: Route: {GET} /materia_by_serie 27| Description: List listBySerieId [] {"uid":"1a4fb21"}
+[2020-02-18 12:43:11] slim-app.INFO: Route: {GET} /questao/{filho}/{materia}/{serie} | Description: Return By ID [] {"uid":"894f7e4"}
+[2020-02-18 12:43:11] slim-app.INFO: Route: {GET} /filho/questoes/{materia}/{serie} | Description: Return By ID [] {"uid":"233dae9"}
+[2020-02-18 12:43:11] slim-app.INFO: Route: {GET} /filho/questoes/respondidas/{filho}/{materia}/{serie} | Description: Return By ID [] {"uid":"8016db8"}
+[2020-02-18 12:43:11] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"73c9ed8"}
+[2020-02-18 12:43:12] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"694a9a9"}
+[2020-02-18 12:43:13] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"aa462a9"}
+[2020-02-18 12:43:16] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"9d6c0b5"}
+[2020-02-18 12:43:16] slim-app.INFO: Route: {GET} /materia_by_serie 27| Description: List listBySerieId [] {"uid":"e7c36bf"}
+[2020-02-18 12:43:17] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"0cc792b"}
+[2020-02-18 12:43:17] slim-app.INFO: Route: {GET} /filho/questoes/{materia}/{serie} | Description: Return By ID [] {"uid":"4647a0b"}
+[2020-02-18 12:43:17] slim-app.INFO: Route: {GET} /filho/questoes/respondidas/{filho}/{materia}/{serie} | Description: Return By ID [] {"uid":"69928b0"}
+[2020-02-18 12:43:18] slim-app.INFO: Route: {GET} /questao/{filho}/{materia}/{serie} | Description: Return By ID [] {"uid":"220bb82"}
+[2020-02-18 12:43:18] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"2ddb446"}
+[2020-02-18 12:43:20] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"dfbb5c3"}
+[2020-02-18 12:43:21] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"1c333f7"}
+[2020-02-18 12:43:22] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"9ea2ead"}
+[2020-02-18 12:43:23] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"1f126be"}
+[2020-02-18 12:43:25] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"e9c25c2"}
+[2020-02-18 12:43:25] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"ba17269"}
+[2020-02-18 12:43:26] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"c056a3f"}
+[2020-02-18 12:43:27] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"21ba891"}
+[2020-02-18 12:43:28] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"e847084"}
+[2020-02-18 12:43:30] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"989bfab"}
+[2020-02-18 12:43:30] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"4389caf"}
+[2020-02-18 12:43:31] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"b200ca9"}
+[2020-02-18 12:43:32] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"47aaec9"}
+[2020-02-18 12:43:33] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"3649792"}
+[2020-02-18 12:43:35] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"801e2c8"}
+[2020-02-18 12:43:35] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"29e36e5"}
+[2020-02-18 12:43:36] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"19d313c"}
+[2020-02-18 12:43:37] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"11db70b"}
+[2020-02-18 12:43:38] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"2d92e86"}
+[2020-02-18 12:43:40] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"d2e0148"}
+[2020-02-18 12:43:40] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"64790a8"}
+[2020-02-18 12:43:41] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"543904e"}
+[2020-02-18 12:43:42] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"9381a5d"}
+[2020-02-18 12:43:43] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"b91bf95"}
+[2020-02-18 12:43:45] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"499863a"}
+[2020-02-18 12:43:45] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"58c67b7"}
+[2020-02-18 12:43:46] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"2cff474"}
+[2020-02-18 12:43:47] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"d1ffd57"}
+[2020-02-18 12:43:48] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"2155a59"}
+[2020-02-18 12:43:50] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"1e8c32a"}
+[2020-02-18 12:43:50] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"89a0317"}
+[2020-02-18 12:43:51] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"704c0c8"}
+[2020-02-18 12:43:52] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"19f99f9"}
+[2020-02-18 12:43:53] slim-app.INFO: Route: {PUT} /filho/tempoativo/{id} | Description: Update [] {"uid":"6240c93"}
+[2020-05-31 02:45:10] slim-app.INFO: Route: {GET} /materia | Description: List All [] {"uid":"bbb2fff"}
+[2020-05-31 02:45:11] slim-app.INFO: Route: {GET} /materia | Description: List All [] {"uid":"0084fe0"}
+[2020-05-31 02:45:50] slim-app.INFO: Route: {POST} /materia | Description: Insert [] {"uid":"c201ebc"}
+[2020-05-31 02:46:07] slim-app.INFO: Route: {POST} /materia | Description: Insert [] {"uid":"4183b3f"}
+[2020-05-31 02:46:13] slim-app.INFO: Route: {GET} /materia/datatable | Description: List All Datatable [] {"uid":"1c632af"}
+[2020-05-31 02:46:19] slim-app.INFO: Route: {DELETE} /materia | Description: Delete [] {"uid":"81f3801"}
+[2020-05-31 02:46:20] slim-app.INFO: Route: {GET} /materia/datatable | Description: List All Datatable [] {"uid":"07060cf"}
+[2020-05-31 02:46:21] slim-app.INFO: Route: {DELETE} /materia | Description: Delete [] {"uid":"173c5bf"}
+[2020-05-31 02:46:23] slim-app.INFO: Route: {GET} /materia/datatable | Description: List All Datatable [] {"uid":"098376a"}
+[2020-05-31 02:46:39] slim-app.INFO: Route: {POST} /materia | Description: Insert [] {"uid":"41ba6cf"}
+[2020-05-31 02:47:09] slim-app.INFO: Route: {POST} /materia | Description: Insert [] {"uid":"84adc97"}
+[2020-05-31 02:48:36] slim-app.INFO: Route: {GET} /materia/datatable | Description: List All Datatable [] {"uid":"119360a"}
+[2020-05-31 02:49:09] slim-app.INFO: Route: {GET} /materia/datatable | Description: List All Datatable [] {"uid":"2a3714d"}
+[2020-05-31 23:45:14] slim-app.INFO: Route: {GET} /ajuda | Description: List All [] {"uid":"30f939f"}
+[2020-05-31 23:45:15] slim-app.INFO: Route: {GET} /ajuda | Description: List All [] {"uid":"e933596"}
+[2020-05-31 23:45:30] slim-app.INFO: Route: {GET} /materia/datatable | Description: List All Datatable [] {"uid":"ce3f403"}
+[2020-05-31 23:45:35] slim-app.INFO: Route: {POST} /materia | Description: Insert [] {"uid":"977a170"}
+[2020-05-31 23:45:38] slim-app.INFO: Route: {GET} /materia/datatable | Description: List All Datatable [] {"uid":"9c2c39f"}
+[2020-05-31 23:45:51] slim-app.INFO: Route: {DELETE} /materia | Description: Delete [] {"uid":"be16c1f"}
+[2020-05-31 23:45:53] slim-app.INFO: Route: {GET} /materia/datatable | Description: List All Datatable [] {"uid":"5f026f9"}
+[2020-05-31 23:49:56] slim-app.INFO: Route: {POST} /materia | Description: Insert [] {"uid":"d92c3df"}
+[2020-05-31 23:50:05] slim-app.INFO: Route: {GET} /materia/datatable | Description: List All Datatable [] {"uid":"864a5bf"}
+[2020-05-31 23:50:07] slim-app.INFO: Route: {DELETE} /materia | Description: Delete [] {"uid":"6981c10"}
+[2020-05-31 23:50:56] slim-app.INFO: Route: {GET} /materia/datatable | Description: List All Datatable [] {"uid":"cae412b"}
+[2020-05-31 23:52:25] slim-app.INFO: Route: {POST} /materia | Description: Insert [] {"uid":"73262ca"}
+[2020-05-31 23:52:28] slim-app.INFO: Route: {GET} /materia/datatable | Description: List All Datatable [] {"uid":"e09eafd"}
+[2020-05-31 23:52:31] slim-app.INFO: Route: {DELETE} /materia | Description: Delete [] {"uid":"d8742d3"}
+[2020-05-31 23:53:22] slim-app.INFO: Route: {GET} /materia/datatable | Description: List All Datatable [] {"uid":"a9e9e29"}
+[2020-05-31 23:53:32] slim-app.INFO: Route: {POST} /materia | Description: Insert [] {"uid":"ebd85e6"}
+[2020-05-31 23:53:36] slim-app.INFO: Route: {GET} /materia/datatable | Description: List All Datatable [] {"uid":"f21bd5e"}
+[2020-05-31 23:53:38] slim-app.INFO: Route: {DELETE} /materia | Description: Delete [] {"uid":"7328d25"}
+[2020-05-31 23:53:39] slim-app.INFO: Route: {GET} /materia/datatable | Description: List All Datatable [] {"uid":"02cb3ad"}
