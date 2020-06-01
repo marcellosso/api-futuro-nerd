@@ -19,12 +19,20 @@ return [
 //            'password' => 'futuronerd', //'password' => 'futuronerd',
 //            'dbname'   => 'futuronerd' //'dbname'   => 'futuronerd',
 //        ],
+//        'db' => [
+//            'host'     => 'localhost',
+//            'user'     => 'root', //'user'     => 'futuronerd',
+//            'password' => 'root123', //'password' => 'futuronerd',
+//            'dbname'   => 'futuro_nerd_local' //'dbname'   => 'futuronerd',
+//        ],
+
         'db' => [
-            'host'     => 'localhost',
-            'user'     => 'root', //'user'     => 'futuronerd',
-            'password' => 'root123', //'password' => 'futuronerd',
-            'dbname'   => 'futuro_nerd_local' //'dbname'   => 'futuronerd',
+            'host'     => 'ffn96u87j5ogvehy.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+            'user'     => 'uvmrvwcmw19kt2su',
+            'password' => 'zawuvgqtjcs5t9ff', 
+            'dbname'   => 'p040hst38t6dnx4w	'
         ],
+
         // Monolog settings
         'logger' => [
             'name' => 'slim-app',
