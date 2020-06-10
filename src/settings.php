@@ -26,19 +26,19 @@ return [
 //            'dbname'   => 'futuro_nerd_local' //'dbname'   => 'futuronerd',
 //        ],
 
-//        'db' => [
-//            'host'     => 'ffn96u87j5ogvehy.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
-//            'user'     => 'uvmrvwcmw19kt2su',
-//            'password' => 'zawuvgqtjcs5t9ff',
-//            'dbname'   => 'p040hst38t6dnx4w'
-//        ],
-
         'db' => [
-            'host'     => '35.223.255.249',
-            'user'     => 'admin',
-            'password' => 'admin@123',
-            'dbname'   => 'futuronerd'
+            'host'     => 'ffn96u87j5ogvehy.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+            'user'     => 'uvmrvwcmw19kt2su',
+            'password' => 'zawuvgqtjcs5t9ff',
+            'dbname'   => 'p040hst38t6dnx4w'
         ],
+
+//        'db' => [
+//            'host'     => '35.223.255.249',
+//            'user'     => 'admin',
+//            'password' => 'admin@123',
+//            'dbname'   => 'futuronerd'
+//        ],
 
         // Monolog settings
         'logger' => [
