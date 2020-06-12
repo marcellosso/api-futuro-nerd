@@ -26,19 +26,25 @@ return [
 //            'dbname'   => 'futuro_nerd_local' //'dbname'   => 'futuronerd',
 //        ],
 
-        'db' => [
-            'host'     => 'ffn96u87j5ogvehy.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
-            'user'     => 'uvmrvwcmw19kt2su',
-            'password' => 'zawuvgqtjcs5t9ff',
-            'dbname'   => 'p040hst38t6dnx4w'
-        ],
+        // 'db' => [
+        //     'host'     => 'ffn96u87j5ogvehy.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+        //     'user'     => 'uvmrvwcmw19kt2su',
+        //     'password' => 'zawuvgqtjcs5t9ff',
+        //     'dbname'   => 'p040hst38t6dnx4w'
+        // ],
 
-//        'db' => [
-//            'host'     => '35.223.255.249',
-//            'user'     => 'admin',
-//            'password' => 'admin@123',
-//            'dbname'   => 'futuronerd'
-//        ],
+    //    'db' => [
+    //         'host'     => '35.223.255.249',
+    //        'user'     => 'admin',
+    //        'password' => 'admin@123',
+    //        'dbname'   => 'futuronerd'
+    //    ],
+       'db' => [
+            'host'     => 'futuro-nerd-279019:us-central1:futuro-nerd',
+           'user'     => 'admin',
+           'password' => 'admin@123',
+           'dbname'   => 'futuronerd'
+       ],
 
         // Monolog settings
         'logger' => [
@@ -54,10 +60,10 @@ return [
             'path'  => __DIR__ . '/../templates',
         ],
         'mailer' => [
-            'host' => 'smtp.dreamhost.com', // SMTP Host
+            'host' => 'smtp.mailtrap.io', // SMTP Host
             'port' => '587', // SMTP Port
-            'username'  => 'emailteste@jamitdigital.com.br', // SMTP Username
-            'password'  => 'Mudar121', // SMTP Password
+            'username'  => '345e63dbd895de', // SMTP Username
+            'password'  => '4e804b73d0c4d0', // SMTP Password
             'protocol'  => 'TLS', // SSL or TLS
         ] //,
         // "determineRouteBeforeAppMiddleware" => true
